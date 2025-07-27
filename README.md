@@ -1,4 +1,3 @@
 # My-Frist-Repo
-Thi is Github second
- repo
+Thi is Github & first repo
 
